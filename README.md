@@ -2,7 +2,7 @@
 A geek way to access the Google StreetView Data from Node.js
 
 ## Installation
-Under developing
+npm install git+https://github.com/sukinull/node-gsv.git
 
 ## Design
 We(In fact, I) focus on two information, pano's {location, links} dataset.
@@ -13,7 +13,7 @@ Each location and links(emit event, one link by link) will bind to panoid
 ## Usage
 
 ```
-GSV = require('gsv');
+GSV = require('node-gsv');
 
 GSV.on('location', function(panoid, loc) {
   console.log(panoid, JSON.stringify(loc));
