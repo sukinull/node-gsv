@@ -1,0 +1,27 @@
+{
+	"name": "node-gsv",
+	"description": "Fine-grainied Google Street View(GSV) access",
+	"version": "0.0.1",
+	"author": {
+		"name": "sukinull"
+	},
+	"keywords": [
+		"google",
+		"streetview",
+		"gsv"
+	],
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git@github.com/sukinull/node-gsv.git"
+	},
+	"license": "AGPL",
+	"engines": {
+		"node": "*"
+	},
+	"main": "./lib/gsv.js",
+	"devDependencies": {
+	},
+	"dependencies" : {
+	}
+}
