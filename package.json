@@ -13,7 +13,7 @@
 	"private": true,
 	"repository": {
 		"type": "git",
-		"url": "git@github.com/sukinull/node-gsv.git"
+		"url": "https://github.com/sukinull/node-gsv.git"
 	},
 	"license": "AGPL",
 	"engines": {
