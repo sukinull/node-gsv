@@ -32,6 +32,7 @@ GSV.streetView('dINsCMZgX--TpEMbNRNb9A');
 [AGPL](https://www.gnu.org/licenses/agpl.txt) or Contact me.
 
 ## Changelog list
-0.0.1
-    + Initial version
-    + First node module try
+
+* 0.0.1
+	+ Initial version
+	+ My first node module try
